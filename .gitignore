@@ -5,19 +5,19 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
-/Howken/[Ll]ibrary/
-/Howken/[Tt]emp/
-/Howken/[Oo]bj/
-/Howken/[Bb]uild/
-/Howken/[Bb]uilds/
-/Howken/[Ll]ogs/
-/Howken/[Mm]emoryCaptures/
+/OpenHawken/[Ll]ibrary/
+/OpenHawken/[Tt]emp/
+/OpenHawken/[Oo]bj/
+/OpenHawken/[Bb]uild/
+/OpenHawken/[Bb]uilds/
+/OpenHawken/[Ll]ogs/
+/OpenHawken/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!/Howken/[Aa]ssets/**/*.meta
+!/OpenHawken/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
-# /Howken/[Aa]ssets/AssetStoreTools*
+# /OpenHawken/[Aa]ssets/AssetStoreTools*
 
 # TextMesh Pro files
 [Aa]ssets/TextMesh*Pro/
